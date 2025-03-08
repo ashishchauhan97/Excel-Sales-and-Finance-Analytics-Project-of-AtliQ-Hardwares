@@ -41,7 +41,7 @@ Supported effective communication with stakeholders through clear and insightful
 reports.
 Contributed to benchmarking against industry peers and established a foundation for
 budgeting and forecasting.
-# 💾Technical and Soft Skills
+# 💾Project 3: Technical and Soft Skills
 # 💫Technical Skills:
 Proficient in ETL methodology (Extract, Transform, Load).
 Skilled in generating date tables using Power Query.
@@ -49,7 +49,7 @@ Experienced in deriving fiscal months and quarters.
 Proficient in establishing data model relationships with Power Pivot.
 Adept at incorporating supplementary data into existing data models.
 Skilled in using DAX to create calculated columns.
-💫Soft Skills:
+# 💫Soft Skills:
 Possess a refined understanding of Sales and Finance Reports.
 Capable of designing user-centric reports with empathy in mind.
 Experienced in optimizing report generation through meticulous fine-tuning.
